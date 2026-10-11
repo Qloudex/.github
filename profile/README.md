@@ -18,11 +18,11 @@ Qloudex helps companies and developers automate software development, data platf
 
 | Project | What it does |
 |---|---|
-| [kubepilot](https://github.com/AryanSharma9917/kubepilot) | AI-powered Kubernetes and DevOps copilot with RAG, tool-calling, GitOps workflows and observability |
-| [SystemMonitoring](https://github.com/AryanSharma9917/SystemMonitoring) | FastAPI service with Prometheus and Grafana, plus AI-driven recommendations |
-| [Codewise-CLI](https://github.com/AryanSharma9917/Codewise-CLI) | CLI with a core set of commands to streamline DevOps work |
+| [kubepilot](https://github.com/Qloudex/kubepilot) | AI-powered Kubernetes and DevOps copilot with RAG, tool-calling, GitOps workflows and observability |
+| [SystemMonitoring](https://github.com/Qloudex/SystemMonitoring) | FastAPI service with Prometheus and Grafana, plus AI-driven recommendations |
+| [Codewise-CLI](https://github.com/Qloudex/Codewise-CLI) | CLI with a core set of commands to streamline DevOps work |
 
-> These projects are being moved into this organization. Links will be updated as they move.
+> These projects are available in the Qloudex organization.
 
 ## Team
 
@@ -32,3 +32,9 @@ Qloudex helps companies and developers automate software development, data platf
 ## Get involved
 
 Browse the [`qloudex`](https://github.com/Qloudex/qloudex) repo for the roadmap and contribution guide. Issues labeled `good first issue` are a good place to start.
+
+## Contact
+
+General: hello@qloudex.tech
+Website: https://qloudex.tech
+GitHub: https://github.com/Qloudex
